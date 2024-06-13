@@ -23,7 +23,7 @@ Jul 2016 – Jul 2020 | GPA: 7.97/10
 ## Professional Experience
 **Data Engineer (Senior Analyst)**  
 EY | Kolkata, India  
-July 2022 – Sep 2023
+July 2022 – Current
 
 - Developed a Python-based custom DAG orchestration framework with runtime restructuring, saving $200k annually.
 - Established a comprehensive CI/CD pipeline for Snowflake in Azure DevOps.
